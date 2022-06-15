@@ -1,24 +1,12 @@
-h1{
-    color: #0000ff;
-    text-align: center;
+.cats p{
+    background-color: coral;
 }
-h2{
-    color: green;
-    text-align: center;
+.dogs p{
+    background-color: yellow;
+}
+.cats p a{
+    font-weight: bold;
+}
+.dogs p a{
     font-style: italic;
-}
-p{
-    font-family: sans-serif;
-}
-ul{
-    line-height: 40px;
-}
-.intro{
-    font-style: italic;
-}
-.list{
-    color: black;
-}
-#p2{
-    color: rgb(255, 0, 191);
 }
