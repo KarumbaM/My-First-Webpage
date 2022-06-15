@@ -1,12 +1,8 @@
-.cats p{
-    background-color: coral;
+@media screen and (min-width:480px) {
+    body{
+        background-color: black;
+        color: white;
+    }
 }
-.dogs p{
-    background-color: yellow;
-}
-.cats p a{
-    font-weight: bold;
-}
-.dogs p a{
-    font-style: italic;
-}
+
+    
